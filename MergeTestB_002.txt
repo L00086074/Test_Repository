@@ -1,0 +1,1 @@
+Newfile created on TEST_BRANCH_002 for merging test Part II after a merge from TEST_BRANCH_001 has been completed
